@@ -1,0 +1,10 @@
+.track {
+    border: 1px solid darkred;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.track h2 {
+    color: #646cff;
+}
+

@@ -1,0 +1,15 @@
+.tracks {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.track {
+    border: 1px solid #747bff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.track.selected {
+    border-color: darkgoldenrod;
+}

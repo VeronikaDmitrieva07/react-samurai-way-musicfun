@@ -1,0 +1,8 @@
+
+
+export const PageTitle = () => {
+    return (
+        <h1>Musicfun</h1>
+    );
+};
+
